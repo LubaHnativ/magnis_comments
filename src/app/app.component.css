@@ -1,0 +1,45 @@
+.wrapper {
+    width: 90%;
+    margin: 1px auto;
+    background-color: rgb(240, 240, 240);
+    padding-right: 30px;
+}
+
+.new-comment {
+    width: 100%;
+    margin: 10px auto;
+    display: block;
+    padding-left: 20px;
+}
+
+.result-comment {
+    border: 1px solid lightgray;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.search-input {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
+
+.submit-btn {
+    width: 70px;
+    padding: 10px;
+    font-size: 12px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    outline: none;
+}
+
+.container {
+    width: 90%;
+    margin: 10px auto;
+    padding: 0;
+}
