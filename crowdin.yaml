@@ -1,0 +1,6 @@
+files:
+  - source: /**/*.xml
+    ignore_settings: 1
+    ignore:
+      - /resources
+    translation: /resources/%two_letters_code%/%original_path%/%original_file_name%
