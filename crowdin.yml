@@ -1,0 +1,5 @@
+files:
+  - source: /*.csv
+    translation: /evr/%two_letters_code%_%original_file_name%/
+    first_line_contains_header: 1
+    scheme: 'identifier,source_phrase,translation'
